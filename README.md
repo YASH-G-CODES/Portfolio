@@ -1,5 +1,5 @@
 # Portfolio
-This is the portfolio  prfile of Yash.
+This is the portfolio  profile of Yash.
 <br>
 Author - Yash.
 
